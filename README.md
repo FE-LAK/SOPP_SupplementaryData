@@ -16,7 +16,7 @@ The algorithm addresses the challenge of coordinating multiple autonomous agents
 ## Scenario 1: Large Warehouse (1000 Agents)
 
 ### Description
-A full-scale warehouse environment (based on warehouse-10-20-10-2-1 available on https://movingai.com/benchmarks/mapf/index.html) with **1000 autonomous agents** coordinating to complete 5000 pick-and-drop tasks.
+A full-scale warehouse environment (based on warehouse-10-20-10-2-1 available on [https://movingai.com/benchmarks/mapf/index.html](https://movingai.com/benchmarks/mapf/index.html)) with **1000 autonomous agents** coordinating to complete 5000 pick-and-drop tasks.
 
 ### Video
 <div style="max-width: 640px;">
@@ -50,7 +50,7 @@ A full-scale warehouse environment (based on warehouse-10-20-10-2-1 available on
 ## Scenario 2: Maze Environment
 
 ### Description
-A complex maze environment (32×32 grid with 2 layers) demonstrating agent coordination in constrained spaces.
+A complex maze environment (based on maze-32-32-2 available on [https://movingai.com/benchmarks/mapf/index.html](https://movingai.com/benchmarks/mapf/index.html) demonstrating agent coordination in constrained spaces.
 
 ### Video
 <div style="max-width: 640px;">
