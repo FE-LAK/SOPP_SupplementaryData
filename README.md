@@ -32,7 +32,7 @@ A full-scale warehouse environment (based on warehouse-10-20-10-2-1 available on
 **Safe location** is specified in node 1 (top-left corner).
 
 ### Task File
-- [warehouse_10_20_10_2_1_tasks.m](Warehouse_big/warehouse_10_20_10_2_1_tasks.m) - Contains 5000 tasks with delivery sequence constraints
+- [warehouse_10_20_10_2_1_tasks.m](Warehouse_big/warehouse_10_20_10_2_1_tasks.m) - Random task set for warehouse scenario
 
 ### Results
 
