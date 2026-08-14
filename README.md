@@ -28,19 +28,21 @@ A full-scale warehouse environment (based on warehouse-10-20-10-2-1 available on
 ### Map Files
 - **JSON format**: [warehouse-10-20-10-2-1.json](Warehouse_big/warehouse-10-20-10-2-1.json)
 - **Map format**: [warehouse-10-20-10-2-1.map](Warehouse_big/warehouse-10-20-10-2-1.map)
+**Safe location** is specified in node 1 (top-left corner).
 
 ### Task File
 - [warehouse_10_20_10_2_1_tasks.m](Warehouse_big/warehouse_10_20_10_2_1_tasks.m) - Contains 5000 tasks with delivery sequence constraints
 
 ### Results
+
 | Metric | Value |
-|--------|-------|
-| **Makespan** | 3,022.80 time units |
-| **Number of Agents** | 1000 |
-| **Number of Tasks** | 5000 |
-| **Total agents time** | 1,679,776.80 units |
-| **Total Travel Distance** | 946,098.00 units |
-| **Number of planning steps** | 36,309 |
+| --- | --- |
+| Makespan | 3,022.80 time units |
+| Number of Agents | 1000 |
+| Number of Tasks | 5000 |
+| Total agents time | 1,679,776.80 units |
+| Total Travel Distance | 946,098.00 units |
+| Number of planning steps | 36,309 |
 
 ---
 
@@ -59,19 +61,21 @@ A complex maze environment (32×32 grid with 2 layers) demonstrating agent coord
 ### Map Files
 - **JSON format**: [maze-32-32-2.json](Maze/maze-32-32-2.json)
 - **Map format**: [maze-32-32-2.map](Maze/maze-32-32-2.map)
+**Safe location** is specified in node 186 (dead-end on the right).
 
 ### Task File
 - [maze_32_32_2_random_1.tasks.m](Maze/maze_32_32_2_random_1.tasks.m) - Random task set for maze scenario
 
 ### Results
+
 | Metric | Value |
-|--------|-------|
-| **Makespan** | 695.95 time units |
-| **Number of Agents** | 1000 |
-| **Number of Tasks** | 333 |
-| **Total agents time** | 44,919.45 units |
-| **Total Travel Distance** | 38,180.00 units |
-| **Number of planning steps** | 8,608 |
+| --- | --- |
+| Makespan | 695.95 time units |
+| Number of Agents | 1000 |
+| Number of Tasks | 333 |
+| Total agents time | 44,919.45 units |
+| Total Travel Distance | 38,180.00 units |
+| Number of planning steps | 8,608 |
 
 ---
 
@@ -143,6 +147,3 @@ The same compact warehouse environment as Scenario 3, but with **staggered task 
 </div>
 
 **[Full Video Link](https://youtu.be/usv2OP4pHYk)**
-
----
-
