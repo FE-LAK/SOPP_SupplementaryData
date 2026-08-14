@@ -28,6 +28,7 @@ A full-scale warehouse environment (based on warehouse-10-20-10-2-1 available on
 ### Map Files
 - **JSON format**: [warehouse-10-20-10-2-1.json](Warehouse_big/warehouse-10-20-10-2-1.json)
 - **Map format**: [warehouse-10-20-10-2-1.map](Warehouse_big/warehouse-10-20-10-2-1.map)
+
 **Safe location** is specified in node 1 (top-left corner).
 
 ### Task File
@@ -61,6 +62,7 @@ A complex maze environment (32×32 grid with 2 layers) demonstrating agent coord
 ### Map Files
 - **JSON format**: [maze-32-32-2.json](Maze/maze-32-32-2.json)
 - **Map format**: [maze-32-32-2.map](Maze/maze-32-32-2.map)
+
 **Safe location** is specified in node 186 (dead-end on the right).
 
 ### Task File
